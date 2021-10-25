@@ -12,11 +12,11 @@ I'm André and I love when the compiler brokes 🔥.
 ### ⛓️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#366](https://github.com/InnerSourceCommons/InnerSourcePatterns/issues/366) in [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns)
-2. ❗️ Opened issue [#3](https://github.com/3cpt/nexinho/issues/3) in [3cpt/nexinho](https://github.com/3cpt/nexinho)
-3. 🎉 Merged PR [#2](https://github.com/3cpt/nexinho/pull/2) in [3cpt/nexinho](https://github.com/3cpt/nexinho)
-4. 💪 Opened PR [#2](https://github.com/3cpt/nexinho/pull/2) in [3cpt/nexinho](https://github.com/3cpt/nexinho)
-5. 🗣 Commented on [#17](https://github.com/zkoppert/innersource-crawler/issues/17) in [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler)
+1. 🗣 Commented on [#366](https://github.com/InnerSourceCommons/InnerSourcePatterns/issues/366) in [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+2. ❗️ Opened issue [#366](https://github.com/InnerSourceCommons/InnerSourcePatterns/issues/366) in [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+3. ❗️ Opened issue [#3](https://github.com/3cpt/nexinho/issues/3) in [3cpt/nexinho](https://github.com/3cpt/nexinho)
+4. 🎉 Merged PR [#2](https://github.com/3cpt/nexinho/pull/2) in [3cpt/nexinho](https://github.com/3cpt/nexinho)
+5. 💪 Opened PR [#2](https://github.com/3cpt/nexinho/pull/2) in [3cpt/nexinho](https://github.com/3cpt/nexinho)
 <!--END_SECTION:activity-->
 
 <!--
