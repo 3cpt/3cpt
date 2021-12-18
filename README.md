@@ -12,11 +12,11 @@ I'm André and I love when the compiler brokes 🔥.
 ### ⛓️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/InnerSourceCommons/repo-activity-score/pull/4) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
-2. 🎉 Merged PR [#3](https://github.com/InnerSourceCommons/repo-activity-score/pull/3) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
-3. 💪 Opened PR [#3](https://github.com/InnerSourceCommons/repo-activity-score/pull/3) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
-4. 🎉 Merged PR [#2](https://github.com/InnerSourceCommons/repo-activity-score/pull/2) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
-5. 🗣 Commented on [#2](https://github.com/InnerSourceCommons/repo-activity-score/issues/2) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
+1. 🎉 Merged PR [#4](https://github.com/InnerSourceCommons/repo-activity-score/pull/4) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
+2. 💪 Opened PR [#4](https://github.com/InnerSourceCommons/repo-activity-score/pull/4) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
+3. 🎉 Merged PR [#3](https://github.com/InnerSourceCommons/repo-activity-score/pull/3) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
+4. 💪 Opened PR [#3](https://github.com/InnerSourceCommons/repo-activity-score/pull/3) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
+5. 🎉 Merged PR [#2](https://github.com/InnerSourceCommons/repo-activity-score/pull/2) in [InnerSourceCommons/repo-activity-score](https://github.com/InnerSourceCommons/repo-activity-score)
 <!--END_SECTION:activity-->
 
 <!--
