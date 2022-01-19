@@ -12,11 +12,11 @@ I'm André and I love when the compiler brokes 🔥.
 ### ⛓️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/3cpt/andler-github-webhook/pull/1) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
-2. ❌ Closed PR [#2](https://github.com/3cpt/andler-github-webhook/pull/2) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
-3. ❌ Closed PR [#4](https://github.com/3cpt/andler-github-webhook/pull/4) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
-4. ❌ Closed PR [#5](https://github.com/3cpt/andler-github-webhook/pull/5) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
-5. 💪 Opened PR [#28](https://github.com/zkoppert/innersource-crawler/pull/28) in [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler)
+1. 🗣 Commented on [#28](https://github.com/zkoppert/innersource-crawler/issues/28) in [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler)
+2. ❌ Closed PR [#1](https://github.com/3cpt/andler-github-webhook/pull/1) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
+3. ❌ Closed PR [#2](https://github.com/3cpt/andler-github-webhook/pull/2) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
+4. ❌ Closed PR [#4](https://github.com/3cpt/andler-github-webhook/pull/4) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
+5. ❌ Closed PR [#5](https://github.com/3cpt/andler-github-webhook/pull/5) in [3cpt/andler-github-webhook](https://github.com/3cpt/andler-github-webhook)
 <!--END_SECTION:activity-->
 
 <!--
